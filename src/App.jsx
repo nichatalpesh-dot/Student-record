@@ -1,7 +1,4 @@
-
-
 function App() {
-  
 
   return (
     <>
@@ -9,6 +6,7 @@ function App() {
       <h2>Welcome to our BSCIT class</h2>
       <h3>Hey I'm krishna</h3>
       <h4>heyy this is kunal</h4>
+
     </>
   )
 }
