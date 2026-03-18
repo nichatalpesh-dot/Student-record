@@ -8,6 +8,7 @@ function App() {
       <h4>heyy this is kunal</h4>
       <h5>this is chota bhai</h5>
       <h5>this is ggu university</h5>
+      <h6>this heading no 6</h6>
 
     </>
   )
